@@ -1,0 +1,82 @@
+header is use to tell search engine this is header section 
+always remember that always put your own css file after the 
+vendor css file otherwise all styles getting overwrite by the 
+vendor css file
+
+vh-view port height it will take heigh per device 
+
+transform: translate(50%,50%);
+first parameter for horizontal traslation (-left, right)
+first parameter for vertical traslation (-up, down)
+
+figure- this element is useful when you want img+caption
+
+overflow :hidden
+this property allow content shoudld in provided area
+not to be outside if this go outside then it get hidden
+
+
+using float
+when use float carry to next element while rendering web pages
+how to clear float
+
+
+blockqoute it is element of html
+<blockqoute></blockqoute>
+
+cite is another element for showing the speaker of quate like that
+<cite></cite>...
+
+
+from css-trick.com
+you can use diffrent quates
+
+span
+span use for style something with in same element
+
+
+box-shadow: horizontal_shadow vertical_shadow blur color;
+this property is use in package section where shadow or border is given
+
+
+/* *:focus{
+    outline: none;
+} */
+
+any element which focus will get none
+
+project is ready
+
+but we need to make it more responsive
+
+so now we are going to learn media queries
+
+
+brower compatibility 
+
+four majour website 
+respond.js
+hrml5shiv.js - this js support for old browser
+selectivizr.js
+
+but better way to use cdn link
+without downloading 
+ script it should always be at end or after body tag complete
+
+
+
+ waypoint is in nav bar when it scroll down
+
+
+
+ now we are going to add favicon
+
+ optimize website performance 
+ optimixing image diemension
+ meanify code
+
+
+ launching website on www
+ get a domain name
+ register with a hosting service
+ upload your website file to the file manger
